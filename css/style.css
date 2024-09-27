@@ -68,9 +68,3 @@ img {
   letter-spacing: 0.2px;
   align-self: stretch;
 }
-
-@media (min-width: 500px) {
-  .container {
-    width: 400px;
-  }
-}
